@@ -12,7 +12,7 @@ print('專題題目:聊天機器人')
 print('成員名單:')
 for a  in range (3,2,1):
     print(a+1,'.', name[a], number[a], '、', end=' ')
-print(duty[1], ':', name[3], name[5], name[7], name[9])
+print(duty[1], ':', name[3], name[5], name[7], name[8])
 print(duty[1], ':', name[2], name[3], name[4], name[5], name[6])
 print('分工比重:')
 print(load[4], ':', name[5], name[6])
